@@ -1,45 +1,45 @@
-# PROJECT NAME
+# SPMS
 
 ## Project Description
 
-Here goes your awesome project description!
+SPMS, or Story Pitch Management System, is a full-stack web application that allows authors to submit story pitches to a publishing company. The pitch can then be approved or rejected by editors at various levels and in various committees based on genre and story length before the author is able to submit a draft of the story. The authors are able to track the status of their pitches throughout the process.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* JDBC
+* MAVEN
+* Javalin
+* Javascript
+* AWS RDBS
+* Java
+* Hibernate
 
 ## Features
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Register/Log in/Log out
+* Submit a pitch for a story
+* Review submitted pitches
+* Reject submitted pitches
+* Different level editors accept pitches at different levels
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* View submited drafts and pitches
+* Give a reason for rejections
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+git clone https://github.com/CampbellSpencer614/SPMS.git
+run the javalin program in your IDE of choice
+navigate to localhost:8080
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+You can only register as a user, but if you have access to editor accounts you can approve or reject pitches.
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+Spencer Campbell
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: MIT
