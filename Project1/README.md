@@ -6,7 +6,6 @@ SPMS, or Story Pitch Management System, is a full-stack web application that all
 
 ## Technologies Used
 
-* JDBC
 * MAVEN
 * Javalin
 * Javascript
